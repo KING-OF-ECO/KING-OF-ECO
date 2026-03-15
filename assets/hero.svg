@@ -1,0 +1,164 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="title desc">
+  <title id="title">KING-OF-ECO profile banner</title>
+  <desc id="desc">A dark animated banner with gold royal accents and green market data lines for a GitHub profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="40" y1="24" x2="1160" y2="396" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#040404"/>
+      <stop offset="0.52" stop-color="#0C1010"/>
+      <stop offset="1" stop-color="#13211C"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="118" y1="84" x2="580" y2="278" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F8E9A4"/>
+      <stop offset="0.58" stop-color="#D9AF37"/>
+      <stop offset="1" stop-color="#8A6514"/>
+    </linearGradient>
+    <linearGradient id="green" x1="232" y1="280" x2="1102" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2BF3AA"/>
+      <stop offset="1" stop-color="#A6FF69"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="790" y1="72" x2="1146" y2="344" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#111716" stop-opacity="0.86"/>
+      <stop offset="1" stop-color="#0B0D0D" stop-opacity="0.54"/>
+    </linearGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="goldGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0.85 0 1 0 0 0.68 0 0 1 0 0.18 0 0 0 0.7 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="8" y="8" width="1184" height="404" rx="28" fill="url(#bg)"/>
+  <rect x="8.5" y="8.5" width="1183" height="403" rx="27.5" stroke="#D9AF37" stroke-opacity="0.28">
+    <animate attributeName="stroke-opacity" values="0.22;0.5;0.22" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <circle cx="1036" cy="84" r="210" fill="#25D88D" fill-opacity="0.08">
+    <animate attributeName="r" values="200;218;200" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="0.04;0.11;0.04" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1088" cy="334" r="160" fill="#D9AF37" fill-opacity="0.05">
+    <animate attributeName="r" values="150;168;150" dur="6.2s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="0.03;0.08;0.03" dur="6.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <g opacity="0.18">
+    <animate attributeName="opacity" values="0.12;0.22;0.12" dur="5.8s" repeatCount="indefinite"/>
+    <path d="M72 70H1128" stroke="#B6C2BA" stroke-width="1"/>
+    <path d="M72 124H1128" stroke="#B6C2BA" stroke-width="1"/>
+    <path d="M72 178H1128" stroke="#B6C2BA" stroke-width="1"/>
+    <path d="M72 232H1128" stroke="#B6C2BA" stroke-width="1"/>
+    <path d="M72 286H1128" stroke="#B6C2BA" stroke-width="1"/>
+    <path d="M72 340H1128" stroke="#B6C2BA" stroke-width="1"/>
+    <path d="M146 48V372" stroke="#B6C2BA" stroke-width="1"/>
+    <path d="M268 48V372" stroke="#B6C2BA" stroke-width="1"/>
+    <path d="M390 48V372" stroke="#B6C2BA" stroke-width="1"/>
+    <path d="M512 48V372" stroke="#B6C2BA" stroke-width="1"/>
+    <path d="M634 48V372" stroke="#B6C2BA" stroke-width="1"/>
+    <path d="M756 48V372" stroke="#B6C2BA" stroke-width="1"/>
+    <path d="M878 48V372" stroke="#B6C2BA" stroke-width="1"/>
+    <path d="M1000 48V372" stroke="#B6C2BA" stroke-width="1"/>
+  </g>
+
+  <g opacity="0.44">
+    <rect x="812" y="258" width="16" height="72" rx="8" fill="#1FE69A">
+      <animate attributeName="y" values="258;244;268;258" dur="3.7s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="72;86;62;72" dur="3.7s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="842" y="228" width="16" height="102" rx="8" fill="#1FE69A">
+      <animate attributeName="y" values="228;210;236;228" dur="4.2s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="102;120;94;102" dur="4.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="872" y="246" width="16" height="84" rx="8" fill="#1FE69A">
+      <animate attributeName="y" values="246;232;254;246" dur="3.4s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="84;98;76;84" dur="3.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="902" y="196" width="16" height="134" rx="8" fill="#1FE69A">
+      <animate attributeName="y" values="196;176;210;196" dur="4.8s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="134;154;120;134" dur="4.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="932" y="216" width="16" height="114" rx="8" fill="#1FE69A">
+      <animate attributeName="y" values="216;198;224;216" dur="3.9s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="114;132;106;114" dur="3.9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="962" y="166" width="16" height="164" rx="8" fill="#1FE69A">
+      <animate attributeName="y" values="166;148;182;166" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="164;182;148;164" dur="4.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="992" y="182" width="16" height="148" rx="8" fill="#1FE69A">
+      <animate attributeName="y" values="182;166;196;182" dur="4.1s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="148;164;134;148" dur="4.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <path id="marketPath" d="M160 308C218 308 252 274 296 274C350 274 362 330 428 330C492 330 520 192 590 192C646 192 676 250 736 250C782 250 800 210 844 210C894 210 920 286 972 286C1018 286 1040 174 1098 174" fill="none" opacity="0"/>
+  <path d="M160 308C218 308 252 274 296 274C350 274 362 330 428 330C492 330 520 192 590 192C646 192 676 250 736 250C782 250 800 210 844 210C894 210 920 286 972 286C1018 286 1040 174 1098 174" stroke="url(#green)" stroke-width="5" stroke-linecap="round" filter="url(#softGlow)"/>
+  <path d="M160 308C218 308 252 274 296 274C350 274 362 330 428 330C492 330 520 192 590 192C646 192 676 250 736 250C782 250 800 210 844 210C894 210 920 286 972 286C1018 286 1040 174 1098 174" stroke="#D9FFF1" stroke-opacity="0.42" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M160 308C218 308 252 274 296 274C350 274 362 330 428 330C492 330 520 192 590 192C646 192 676 250 736 250C782 250 800 210 844 210C894 210 920 286 972 286C1018 286 1040 174 1098 174" stroke="#B8FFE2" stroke-width="2" stroke-linecap="round" stroke-dasharray="12 18" opacity="0.2">
+    <animate attributeName="stroke-dashoffset" values="0;-120" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.1;0.68;0.1" dur="4s" repeatCount="indefinite"/>
+  </path>
+  <circle r="6" fill="#A6FF69" filter="url(#softGlow)">
+    <animateMotion dur="6s" repeatCount="indefinite" rotate="auto">
+      <mpath xlink:href="#marketPath"/>
+    </animateMotion>
+    <animate attributeName="r" values="5;7;5" dur="1.1s" repeatCount="indefinite"/>
+  </circle>
+
+  <g filter="url(#goldGlow)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.6s" repeatCount="indefinite"/>
+    <path d="M124 136L152 90L184 128L218 86L250 128L282 94L314 136V160H124V136Z" fill="none" stroke="url(#gold)" stroke-width="6" stroke-linejoin="round"/>
+    <circle cx="152" cy="90" r="7" fill="#F8E9A4"/>
+    <circle cx="218" cy="86" r="7" fill="#F8E9A4"/>
+    <circle cx="282" cy="94" r="7" fill="#F8E9A4"/>
+    <path d="M142 160H296C296 183 279 200 258 200H180C159 200 142 183 142 160Z" fill="none" stroke="url(#gold)" stroke-width="6"/>
+  </g>
+
+  <text x="118" y="252" fill="#F5F1E7" font-size="66" font-weight="700" font-family="Georgia, 'Times New Roman', serif" letter-spacing="8">KING OF</text>
+  <text x="118" y="320" fill="url(#gold)" font-size="88" font-weight="700" font-family="Georgia, 'Times New Roman', serif" letter-spacing="12">ECO</text>
+  <text x="122" y="356" fill="#CCD8D3" font-size="22" font-family="'Trebuchet MS', Arial, sans-serif" letter-spacing="4">ECONOMICS / DATA / AI / CAUSAL INFERENCE</text>
+  <rect x="1084" y="334" width="8" height="26" rx="2" fill="#1FE69A">
+    <animate attributeName="opacity" values="1;1;0;0;1" dur="1.15s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="120" y="92" width="214" height="12" rx="6" fill="#D9AF37" fill-opacity="0.18">
+    <animate attributeName="fill-opacity" values="0.1;0.24;0.1" dur="3.6s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="120" y="376" width="266" height="10" rx="5" fill="#1FE69A" fill-opacity="0.28">
+    <animate attributeName="fill-opacity" values="0.16;0.34;0.16" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <g>
+    <rect x="790" y="72" width="338" height="156" rx="20" fill="url(#panel)" stroke="#C9A227" stroke-opacity="0.22">
+      <animate attributeName="stroke-opacity" values="0.12;0.36;0.12" dur="4.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="800" y="118" width="318" height="3" rx="1.5" fill="#A6FF69" opacity="0">
+      <animate attributeName="y" values="118;214;118" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.72;0" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="820" y="112" fill="#D9AF37" font-size="18" font-family="'Trebuchet MS', Arial, sans-serif" letter-spacing="3">STATUS BOARD</text>
+    <text x="820" y="146" fill="#EEF3F0" font-size="22" font-family="'Trebuchet MS', Arial, sans-serif">Question density</text>
+    <text x="1034" y="146" fill="#1FE69A" font-size="22" font-family="'Trebuchet MS', Arial, sans-serif">HIGH</text>
+    <text x="820" y="176" fill="#EEF3F0" font-size="22" font-family="'Trebuchet MS', Arial, sans-serif">Noise tolerance</text>
+    <text x="1021" y="176" fill="#F8E9A4" font-size="22" font-family="'Trebuchet MS', Arial, sans-serif">LOW</text>
+    <text x="820" y="206" fill="#EEF3F0" font-size="22" font-family="'Trebuchet MS', Arial, sans-serif">Inference mode</text>
+    <text x="994" y="206" fill="#1FE69A" font-size="22" font-family="'Trebuchet MS', Arial, sans-serif">CAUSAL</text>
+  </g>
+
+  <g opacity="0.72">
+    <text x="790" y="274" fill="#B8C8C0" font-size="15" font-family="'Trebuchet MS', Arial, sans-serif" letter-spacing="2">ALPHA</text>
+    <text x="872" y="274" fill="#B8C8C0" font-size="15" font-family="'Trebuchet MS', Arial, sans-serif" letter-spacing="2">BETA</text>
+    <text x="952" y="274" fill="#B8C8C0" font-size="15" font-family="'Trebuchet MS', Arial, sans-serif" letter-spacing="2">GAMMA</text>
+    <text x="1040" y="274" fill="#B8C8C0" font-size="15" font-family="'Trebuchet MS', Arial, sans-serif" letter-spacing="2">R-SQ</text>
+    <text x="790" y="356" fill="#F1F5F3" font-size="18" font-family="'Trebuchet MS', Arial, sans-serif" letter-spacing="3">MODEL / MEASURE / RULE</text>
+  </g>
+</svg>
