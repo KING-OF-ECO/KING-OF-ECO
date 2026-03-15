@@ -3,67 +3,96 @@
 </div>
 
 <h1 align="center">KING-OF-ECO</h1>
-<p align="center"><strong>Economics | Data | AI | Causal Inference</strong></p>
+<p align="center"><strong>Economics / Data / AI / Causal Inference</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1100&color=21C987&center=true&vCenter=true&width=760&lines=Economics+with+Discipline;Data+with+Edge;AI+with+Purpose;School+of+Economics%2C+NJUPT" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=21C987&center=true&vCenter=true&width=820&lines=Economics+with+Discipline;Policy+Evaluation+with+Teeth;AI+with+Actual+Use;School+of+Economics%2C+NJUPT" alt="Typing intro" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Discipline-Economics-c9a227?style=for-the-badge&labelColor=0d0d0f" alt="Economics badge" />
-  <img src="https://img.shields.io/badge/Workflow-Reproducible-21c987?style=for-the-badge&labelColor=0d0d0f" alt="Workflow badge" />
-  <img src="https://img.shields.io/badge/Mindset-Identification%20First-f5f5f5?style=for-the-badge&labelColor=0d0d0f&color=3b3f45" alt="Mindset badge" />
+  <img src="https://img.shields.io/badge/Mode-Causal%20Inference-21c987?style=for-the-badge&labelColor=0d0d0f" alt="Causal inference badge" />
+  <img src="https://img.shields.io/badge/Focus-Policy%20Evaluation-f5f5f5?style=for-the-badge&labelColor=0d0d0f&color=3b3f45" alt="Policy evaluation badge" />
   <img src="https://img.shields.io/badge/NJUPT-School%20of%20Economics-bb8a17?style=for-the-badge&labelColor=0d0d0f" alt="NJUPT badge" />
 </p>
 
 <p align="center">
-  <em>Build the story. Test the mechanism. Let the data answer.</em>
+  <a href="mailto:13962101019@163.com">
+    <img src="https://img.shields.io/badge/Email-13962101019%40163.com-101418?style=flat-square&logo=gmail&logoColor=21c987" alt="Email badge" />
+  </a>
+  <img src="https://img.shields.io/badge/Workflow-Reproducible-101418?style=flat-square&logo=githubactions&logoColor=c9a227" alt="Workflow badge" />
+  <img src="https://img.shields.io/badge/Writing-Reviewer%20Ready-101418?style=flat-square&logo=latex&logoColor=f2f2f2" alt="Writing badge" />
+  <img src="https://img.shields.io/badge/Signal-Low%20Noise-101418?style=flat-square&logo=googledataproc&logoColor=21c987" alt="Signal badge" />
 </p>
 
 <p align="center">
-  School of Economics, NJUPT<br/>
-  <a href="mailto:13962101019@163.com">13962101019@163.com</a>
+  <em>Build the story. Stress the mechanism. Rule the noise.</em>
 </p>
 
-## Sovereign Profile
+<div align="center">
+  <img src="./assets/divider.svg" alt="signal divider" width="100%" />
+</div>
 
-```text
-> username: KING-OF-ECO
-> affiliation: School of Economics, NJUPT
-> domain: economics x machine intelligence x policy evaluation
-> operating mode: strict identification / clean data / sharp communication
-> contact: 13962101019@163.com
-> default output: research-grade analysis with builder energy
-```
+<div align="center">
+  <img src="./assets/control-deck.svg" alt="research command console" width="100%" />
+</div>
 
-## Command Center
+## Imperial Console
 
-| Module | Signal |
-| --- | --- |
-| Research Core | Causal inference, policy analysis, empirical strategy, mechanism design |
-| Data Stack | Stata, Python, R, SQL, reproducible pipelines |
-| Build Style | Minimal noise, strong logic, publication-ready output |
-| Current Frontier | Economics + AI, computational social science, scalable evidence |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Identity</strong><br/>
+      KING-OF-ECO<br/>
+      School of Economics, NJUPT<br/>
+      <a href="mailto:13962101019@163.com">13962101019@163.com</a>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Research Zone</strong><br/>
+      Policy evaluation<br/>
+      Causal inference<br/>
+      Economics x intelligent systems
+    </td>
+    <td width="33%" valign="top">
+      <strong>Build Discipline</strong><br/>
+      Reproducible pipelines<br/>
+      Publication-ready visuals<br/>
+      Arguments that survive review
+    </td>
+  </tr>
+</table>
 
-## Arsenal
+## Signal Grid
 
 <p align="center">
   <img src="https://img.shields.io/badge/Stata-1a5fb4?style=flat-square&logo=stata&logoColor=white" alt="Stata" />
   <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=ffd43b" alt="Python" />
   <img src="https://img.shields.io/badge/R-165caa?style=flat-square&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=postgresql&logoColor=7dd3fc" alt="SQL" />
   <img src="https://img.shields.io/badge/LaTeX-0f766e?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
   <img src="https://img.shields.io/badge/PyTorch-2b0a0a?style=flat-square&logo=pytorch&logoColor=ee4c2c" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/DiD-Identification%20First-111827?style=flat-square&logoColor=white&color=1f8a70" alt="DiD" />
+  <img src="https://img.shields.io/badge/IV-Mechanism%20Aware-111827?style=flat-square&logoColor=white&color=8a6d1f" alt="IV" />
+  <img src="https://img.shields.io/badge/Text%20as%20Data-Operational-111827?style=flat-square&logoColor=white&color=2b7fff" alt="Text as data" />
+  <img src="https://img.shields.io/badge/Visualization-Publication%20Grade-111827?style=flat-square&logoColor=white&color=20b486" alt="Visualization" />
 </p>
 
-## What Lives Here
+## Research Doctrine
 
-- Empirical research projects with defensible identification
-- Data workflows that survive reruns, revisions, and reviewer pressure
-- Economics-meets-AI experiments that aim for actual leverage, not decoration
-- Visual outputs that make technical work readable at first glance
+```text
+QUESTION -> DESIGN -> IDENTIFICATION -> ROBUSTNESS -> MECHANISM -> COMMUNICATION
+```
 
-## Live Metrics
+- Evidence should still stand after the hard questions arrive.
+- Code, data cleaning, tables, figures, and writing belong to one system.
+- Economics and AI are interesting when they improve measurement, evaluation, or decision quality.
+- Visual output should help readers understand the logic before they inspect the appendix.
+
+<div align="center">
+  <img src="./assets/divider.svg" alt="signal divider" width="100%" />
+</div>
+
+## Metric Grid
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=KING-OF-ECO&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=c9a227&text_color=d9d9d9&icon_color=21c987" alt="GitHub stats" />
@@ -84,18 +113,6 @@
   </picture>
 </p>
 
-## Operating Thesis
+## Open Channel
 
-> Good research is not a pile of regressions.  
-> It is a clean question, a credible design, and a result that still stands after the hard questions arrive.
-
-## Collaboration
-
-If you are building at the intersection of economics, data, and intelligent systems, this is the territory.
-
-<!--
-Quick customization guide:
-1. Replace the "What Lives Here" bullets with your actual focus.
-2. Add your email, X, Scholar, or website below if needed.
-3. Keep the repo name exactly equal to your GitHub username: KING-OF-ECO
--->
+If you are building something sharp at the intersection of economics, policy, data, and intelligent systems, reach me at <a href="mailto:13962101019@163.com">13962101019@163.com</a>.
